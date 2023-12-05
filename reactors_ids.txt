@@ -1,0 +1,174 @@
+1
+Caught an exception: 'Places lived'
+2
+Eldoret
+3
+Caught an exception: 'Places lived'
+4
+Nan, Thailand
+5
+Caught an exception: 'Places lived'
+6
+Queretaro
+7
+Witten, Germany
+8
+Caught an exception: 'Places lived'
+9
+Darjeeling
+10
+Caught an exception: 'Places lived'
+11
+Caught an exception: 'Places lived'
+12
+Outer Ring Road, Nairobi Area, Kenya
+13
+Durban, KwaZulu-Natal
+14
+Caught an exception: Content Not Found
+15
+Corinth, Mississippi
+16
+Meerbusch
+17
+Kitale
+18
+Caught an exception: 'Places lived'
+19
+Caught an exception: 'Places lived'
+20
+Naivasha
+21
+Ruiru, Central, Kenya
+22
+Auckland, New Zealand
+23
+Busia, Kenya
+24
+Caught an exception: 'Places lived'
+25
+Nairobi, Kenya
+26
+Kericho
+27
+Eldoret
+28
+Woodley Estate, Nairobi Area, Kenya
+29
+Jamhuri Park, Nairobi Area, Kenya
+30
+Constanta, Romania
+31
+Nakuru
+32
+Meru, Kenya
+33
+Caught an exception: 'Places lived'
+34
+Caught an exception: 'Places lived'
+35
+Caught an exception: 'Places lived'
+36
+Torun, Poland
+37
+Mombasa, Kenya
+38
+Caught an exception: 500 Server Error: Internal Server Error for url: https://m.facebook.com/photo.php?fbid=176298695418600&id=100091154102198&set=a.101248046256999&eav=AfZmhJehPjzjQ_aikP7yerZ8PHlPU5KTROipzcvyvZFbRQM-DPhxpifWBclEIgfMurs&paipv=0&m_entstream_source=timeline&refid=17&_ft_=encrypted_tracking_data.0AY_9snaNOCCTQYW_dQ7P8v7rIijJ86gY7KUDsXux7jiK20imstCOegdUCll55zauzzKAsdoMAxV4BmrPyquYdqJAEA0DwDEObxZ-8nx8UUsDsaRcKSE9VZJxvHWttK06QAF0EzXRyewwlpegz_bAtQqDkGxYWUHMMnRojdoJD0NpBuG942km15UVcR_GWbAvQqZJaen_qvT2RZxKFp0rHXNI32JcJ3dWNu2SY_f6yg2VN-fUeTbafC8ilp964P-xicSNkmOC9oqPaLjdwaG-%5C-%5CkPRy5uN3lum1p2YJQwC7PxzCY4KH6xDDFCs4m_UCA4PEl0oN50w3YxNCBv9EeL_ZCq9rdwRiUmnyDSnRqSTA36k21k5clZ5v6vVm_BTJfY2jNkTqgUYvtZbnLpEcMsuVT-uLKTAlue-4Z-_DROtKFcuv604t3izqekJH1hYFXkqJm0fBAVjPX0wDh1UxsChWVKcr4EPoZS5OKPBp-c9_QKsB5khuhOx-C_E4bAn46nW3laRjULlCzOqa76E_9C2_A81ugjnODH3r_LVl6gwJizCiY3s6-kPiJ_GDna1KBO7Lg8m0cS1ymvrgjSOQ3fUR14Yifz7fukp_Z34nR2GUgeO5saaVLxPnMoyUWHPtxFakW0IG75KrLwdubp4LmhXh0jtQUapv6OwmSzV0NeO_o0446Pk1jFcX5w7z78cBOW5ELYbPPm61FtnW6r-KAW2TD_5oghFez5oz1RiCxn5p4pawajjm3cBkrtprVgnZ4K09E3jAb05&__tn__=-R
+39
+Caught an exception: 'Places lived'
+40
+Lima, Peru
+41
+Guadalajara, Jalisco
+42
+Jos, Nigeria
+43
+Nairobi, Kenya
+44
+Caught an exception: 'Places lived'
+45
+Ruiru, Central, Kenya
+46
+Toledo, Ohio
+47
+Mombasa, Kenya
+48
+Meru, Kenya
+49
+Caught an exception: 'Places lived'
+50
+Nairobi, Kenya
+51
+Nha Trang
+52
+Kathmandu, Nepal
+53
+Caught an exception: 'Places lived'
+54
+Caught an exception: 'Places lived'
+55
+Nakuru
+56
+Caught an exception: 'Places lived'
+57
+Caught an exception: 'Places lived'
+58
+Caught an exception: 'Places lived'
+59
+Jamhuri Park, Nairobi Area, Kenya
+60
+Caught an exception: 'Places lived'
+61
+Beverly Hills, California
+62
+Nairobi, Kenya
+63
+Caught an exception: 'Places lived'
+64
+Capraia e Limite
+65
+New York, Florida
+66
+Caught an exception: 'Places lived'
+67
+Meru
+68
+Caught an exception: You’re Temporarily Blocked
+69
+Caught an exception: You’re Temporarily Blocked
+70
+Caught an exception: You’re Temporarily Blocked
+71
+Caught an exception: You’re Temporarily Blocked
+72
+Caught an exception: You’re Temporarily Blocked
+73
+Caught an exception: You’re Temporarily Blocked
+74
+Caught an exception: You’re Temporarily Blocked
+75
+Caught an exception: You’re Temporarily Blocked
+76
+Caught an exception: You’re Temporarily Blocked
+77
+Caught an exception: You’re Temporarily Blocked
+78
+Caught an exception: You’re Temporarily Blocked
+79
+Caught an exception: You’re Temporarily Blocked
+80
+Caught an exception: You’re Temporarily Blocked
+81
+Caught an exception: You’re Temporarily Blocked
+82
+Caught an exception: You’re Temporarily Blocked
+83
+Caught an exception: You’re Temporarily Blocked
+84
+Caught an exception: You’re Temporarily Blocked
+85
+Caught an exception: You’re Temporarily Blocked
+86
+Caught an exception: You’re Temporarily Blocked
+87
+Caught an exception: You’re Temporarily Blocked

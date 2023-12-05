@@ -1,0 +1,478 @@
+1
+Caught an exception: 'Places lived'
+2
+Eldoret
+3
+Magura, Khulna, Bangladesh
+4
+Thika
+5
+Caught an exception: 'Places lived'
+6
+Caught an exception: 500 Server Error: Internal Server Error for url: https://m.facebook.com/100084430479964/about/
+7
+Nairobi, Kenya
+8
+Caught an exception: 'Places lived'
+9
+Ciudad Juárez
+10
+São Brás de Alportel
+11
+Nakuru
+12
+Nairobi, Kenya
+13
+Caught an exception: 'Places lived'
+14
+Phan Thiet
+15
+Caught an exception: 'Places lived'
+16
+Caught an exception: 'Places lived'
+17
+Nairobi, Kenya
+18
+Pont-À-Mousson, Lorraine, France
+19
+Kapsabet
+20
+Eldoret
+21
+Meerbusch
+22
+Caught an exception: 'Places lived'
+23
+Nairobi, Kenya
+24
+Lower Bebington, Liverpool, United Kingdom
+25
+Caught an exception: Content Not Found
+26
+Nairobi, Kenya
+27
+Narok
+28
+Caught an exception: 'Places lived'
+29
+Nairobi, Kenya
+30
+Maseru, Lesotho
+31
+Eldoret
+32
+Potchefstroom
+33
+Awassa
+34
+Caught an exception: 'Places lived'
+35
+Kericho
+36
+Beverly Hills, California
+37
+Abidjan, Cote d'Ivoire
+38
+Caught an exception: 'Places lived'
+39
+Kisumu
+40
+Webuye
+41
+Miami, Florida
+42
+Nairobi, Kenya
+43
+Mexico City, Mexico
+44
+Kapsabet
+45
+Kingston, Jamaica
+46
+Delhi, India
+47
+Thomson Estate, Nairobi Area, Kenya
+48
+Caught an exception: 'Places lived'
+49
+Caught an exception: 'Places lived'
+50
+Wolmaransstad
+51
+Caught an exception: 'Places lived'
+52
+Caught an exception: 'Places lived'
+53
+Caught an exception: 'Places lived'
+54
+Mbagathi, Nairobi Area, Kenya
+55
+Meru, Kenya
+56
+Kakamega
+57
+Nairobi, Kenya
+58
+Caught an exception: 'Places lived'
+59
+Caught an exception: 'Places lived'
+60
+Nairobi, Kenya
+61
+Caught an exception: 'Places lived'
+62
+Caught an exception: You’re Temporarily Blocked
+63
+Caught an exception: You’re Temporarily Blocked
+64
+Caught an exception: You’re Temporarily Blocked
+65
+Caught an exception: You’re Temporarily Blocked
+66
+Caught an exception: You’re Temporarily Blocked
+67
+Caught an exception: You’re Temporarily Blocked
+68
+Caught an exception: You’re Temporarily Blocked
+69
+Caught an exception: You’re Temporarily Blocked
+70
+Caught an exception: You’re Temporarily Blocked
+71
+Caught an exception: You’re Temporarily Blocked
+72
+Caught an exception: You’re Temporarily Blocked
+73
+Caught an exception: You’re Temporarily Blocked
+74
+Caught an exception: Content Not Found
+75
+Caught an exception: You’re Temporarily Blocked
+76
+Caught an exception: You’re Temporarily Blocked
+77
+Caught an exception: You’re Temporarily Blocked
+78
+Caught an exception: You’re Temporarily Blocked
+79
+Caught an exception: You’re Temporarily Blocked
+80
+Caught an exception: You’re Temporarily Blocked
+81
+Caught an exception: You’re Temporarily Blocked
+82
+Caught an exception: You’re Temporarily Blocked
+83
+Caught an exception: You’re Temporarily Blocked
+84
+Caught an exception: You’re Temporarily Blocked
+85
+Caught an exception: You’re Temporarily Blocked
+86
+Caught an exception: You’re Temporarily Blocked
+87
+Caught an exception: You’re Temporarily Blocked
+88
+Caught an exception: You’re Temporarily Blocked
+89
+Caught an exception: You’re Temporarily Blocked
+90
+Caught an exception: You’re Temporarily Blocked
+91
+Caught an exception: You’re Temporarily Blocked
+92
+Caught an exception: You’re Temporarily Blocked
+93
+Caught an exception: You’re Temporarily Blocked
+94
+Caught an exception: You’re Temporarily Blocked
+95
+Caught an exception: You’re Temporarily Blocked
+96
+Caught an exception: You’re Temporarily Blocked
+97
+Caught an exception: 500 Server Error: Internal Server Error for url: https://m.facebook.com/photo.php?fbid=326080926606828&id=100076147687864&set=a.326080946606826&eav=AfZhLYl_FCg8Fb5j4YgkttUSKZi_Ef1S59UeXDUSa_NzMZMutlLnOjQ2qDJeT2IKZ-0&paipv=0&m_entstream_source=timeline&refid=17&_ft_=encrypted_tracking_data.0AY_gPJnc_KMxAhgvR4v-HeVU54mReXUXQIxt8ewGA6XiB4uVTtGNjEiECFB4KY_Vhs0se1-%5C-%5CLFafnVbq_Jaj9Y61LOYH7RhKy_ReaWtNz1DDXkByZUz4TFnM3I48XJ3rX84TxhIpBixlpqHj3zIgiiDpueI1H_blCinncbN6_TMseu9r6jiHkaXIqcN-DWtaDLfvNG5safdPy1A-U5luYymA6WA3H2pi4rZKJsQbhxCezofUv7W2QGs8H8H-AB_-RTMEMfcgqHDXTYR8JPY4UKHg9utm53lVHYwo5ry9hD3qJp6HMlJ_Hzxq6s8SNE5yd_fUY5rK0RlOFfiKgGcKKULEmz7233sXw21fIGlC5sY1M6LL4LfNtHTWXmoVlCGDtHMxXzNyHFyytgngTYRbfmuQlK2oosRPclDR4Y2aMevi4tZ4ge_C8V6lZ8Ds1M2AnLrm1TAfvVvd8KB-xjfMBnD8Zr221KocdyNecOU82PPe-Ln1vgvDSKgksZW91EUHlCgcoezSVgziahNQ1uFMTTHLR7sSGMUau-XLuPLwwyo-b-yz5uiwbzCcHPSHT4WRGe6Wy38fFDLnnre5EV0sKMMbBhtcwQ-twq-vVQ5brFGOiHD3uWZDiD-RV5Muem5Ny0VzBcQF4YibTYLecbIhiQVdeQPB1SMGluaqDzB_uglGbAPY0LHy0YVv6y_Q6w1KAvowz3a1ajj81wtPoW_ho2KYgOvTWUq1E6zEe-JVAZTCyeqHqKWaItTOxFhogdx8RKLPu4gg&__tn__=-R
+98
+Caught an exception: You’re Temporarily Blocked
+99
+Caught an exception: You’re Temporarily Blocked
+100
+Caught an exception: You’re Temporarily Blocked
+101
+Caught an exception: You’re Temporarily Blocked
+102
+Caught an exception: You’re Temporarily Blocked
+103
+Caught an exception: You’re Temporarily Blocked
+104
+Caught an exception: You’re Temporarily Blocked
+105
+Caught an exception: You’re Temporarily Blocked
+106
+Caught an exception: You’re Temporarily Blocked
+107
+Caught an exception: You’re Temporarily Blocked
+108
+Caught an exception: You’re Temporarily Blocked
+109
+Caught an exception: You’re Temporarily Blocked
+110
+Caught an exception: 500 Server Error: Internal Server Error for url: https://m.facebook.com/photo.php?fbid=334411495599286&id=100070913133348&set=a.101001635606941&eav=AfYNlxKw8qVCVQDUWDHEimdOma2WfOu-oStS3wHAf3ryFlnVwLYgtx9EnrqhBdDs2vg&paipv=0&m_entstream_source=timeline&refid=17&_ft_=encrypted_tracking_data.0AY-giiwuOs8ABsXktThQhjipMG1ubCcVqj9hFCivr_0-K-9ZcLwCPH7-9_wewtq-7QUXkKoIEJEPC44otpoPN5CnPfCUrI657AyFa-8Za5IpbnqI4MW9bB6MmB9VRE7sUdwFOkcUEYirnOpuI9MXGYCnfykBNmGv754FAZZ7S6fjGXcpDcjExjDhnrvC-AhTbpLbJH11OBfxwjNE6uiX44qnRBgbm_4ccnmtfjydr0Nv1ENJtHDiwQQhxfASbFgszfhyAhR4tUAM6yCr2v5DCwpwnf86VczVS949c7SiwHKw8XuKLviaGGm33if3EQ1TPnJasdEZ_cWHfgFttD_V_pMXys7ht6FGIWIYJCE6tetO28YYq7OpdzODOzdGIuOSORVn_layMTDCgixQQ0Gi9ePITT5Iz9z48GTQOg3Z9CLyMGZSG1as2FSi4lh0Xs6EjBu359hN8w4i_R-BBMb4K-3XhIQucv7i_Zr4OsD5tHzAe4uDRiRJf4Li9M5MXmBBGtFREQUazcFh87JBjmb8XWd9QAjZvVgncx7QbEbM13PT_duYjIdYndQ2Jj2EoJZ0vHVpoz50TQbRXhMNmYmOA09lRE25pb2gNZLK4DTLF0NCWkJv3c8CvwwNUrxXB-eO8vR-%5C-%5C6rby3j7jtmLuxq2f_3-q_NhjADkeO-tymIUdxOjlUna8ujGAY7zlyGZqhC6VTdVsXksfj3B592d4r4s_YHbLmOeWR9Fj3YPRc2YezoxBqOEe0gEhURsiKUA9TwK9O9Yo7op&__tn__=-R
+111
+Caught an exception: You’re Temporarily Blocked
+112
+Caught an exception: You’re Temporarily Blocked
+113
+Caught an exception: You’re Temporarily Blocked
+114
+Caught an exception: You’re Temporarily Blocked
+115
+Caught an exception: You’re Temporarily Blocked
+116
+Caught an exception: You’re Temporarily Blocked
+117
+Caught an exception: You’re Temporarily Blocked
+118
+Caught an exception: You’re Temporarily Blocked
+119
+Caught an exception: You’re Temporarily Blocked
+120
+Caught an exception: You’re Temporarily Blocked
+121
+Caught an exception: You’re Temporarily Blocked
+122
+Caught an exception: You’re Temporarily Blocked
+123
+Caught an exception: You’re Temporarily Blocked
+124
+Caught an exception: You’re Temporarily Blocked
+125
+Caught an exception: You’re Temporarily Blocked
+126
+Caught an exception: You’re Temporarily Blocked
+127
+Caught an exception: You’re Temporarily Blocked
+128
+Caught an exception: You’re Temporarily Blocked
+129
+Caught an exception: You’re Temporarily Blocked
+130
+Caught an exception: You’re Temporarily Blocked
+131
+Caught an exception: You’re Temporarily Blocked
+132
+Caught an exception: You’re Temporarily Blocked
+133
+Caught an exception: You’re Temporarily Blocked
+134
+Caught an exception: You’re Temporarily Blocked
+135
+Caught an exception: You’re Temporarily Blocked
+136
+Caught an exception: You’re Temporarily Blocked
+137
+Caught an exception: You’re Temporarily Blocked
+138
+Caught an exception: You’re Temporarily Blocked
+139
+Caught an exception: You’re Temporarily Blocked
+140
+Caught an exception: You’re Temporarily Blocked
+141
+Caught an exception: You’re Temporarily Blocked
+142
+Caught an exception: You’re Temporarily Blocked
+143
+Caught an exception: You’re Temporarily Blocked
+144
+Caught an exception: You’re Temporarily Blocked
+145
+Caught an exception: You’re Temporarily Blocked
+146
+Caught an exception: You’re Temporarily Blocked
+147
+Caught an exception: You’re Temporarily Blocked
+148
+Caught an exception: You’re Temporarily Blocked
+149
+Caught an exception: You’re Temporarily Blocked
+150
+Mombasa, Kenya
+151
+Caught an exception: 'Places lived'
+152
+Caught an exception: 'Places lived'
+153
+Caught an exception: 'Places lived'
+154
+Nairobi, Kenya
+155
+Capraia e Limite
+156
+Caught an exception: 'Places lived'
+157
+Iloilo City, Philippines
+158
+Caught an exception: 'Places lived'
+159
+Nakuru
+160
+Caught an exception: 'Places lived'
+161
+Caught an exception: 'Places lived'
+162
+Nyeri, Kenya
+163
+Caught an exception: 'Places lived'
+164
+Livezeni, Mures, Romania
+165
+Kisumu
+166
+Hanoi, Vietnam
+167
+Nairobi, Kenya
+168
+Nakuru
+169
+Caught an exception: 'Places lived'
+170
+Guadalajara, Jalisco
+171
+Caught an exception: 'Places lived'
+172
+Eldoret
+173
+Caught an exception: 'Places lived'
+174
+Caught an exception: 'Places lived'
+175
+Eldoret
+176
+Jakarta, Indonesia
+177
+Eldoret
+178
+Uthiru, Nairobi Area, Kenya
+179
+Dar es Salaam, Tanzania
+180
+Palapye
+181
+Caught an exception: 'Places lived'
+182
+Kericho
+183
+London, United Kingdom
+184
+Thika
+185
+Gaborone, Botswana
+186
+Caught an exception: 'Places lived'
+187
+Thika
+188
+Lodwar
+189
+Arusha, Tanzania
+190
+Meru, Kenya
+191
+Naivasha
+192
+Mombasa, Kenya
+193
+Caught an exception: 'Places lived'
+194
+Caught an exception: 'Places lived'
+195
+Meknassy
+196
+Piet Retief, Mpumalanga
+197
+Nha Trang
+198
+Barrackpore
+199
+Doha
+200
+Chiclayo, Peru
+201
+San Fernando del Valle de Catamarca
+202
+Mombasa, Kenya
+203
+Murang'a
+204
+Nairobi, Kenya
+205
+Eldoret
+206
+Recife, Brazil
+207
+Longview, Texas
+208
+Torun, Poland
+209
+Sigomere, Nyanza, Kenya
+210
+Bamenda, Cameroon
+211
+Caught an exception: You’re Temporarily Blocked
+212
+Caught an exception: You’re Temporarily Blocked
+213
+Caught an exception: You’re Temporarily Blocked
+214
+Caught an exception: You’re Temporarily Blocked
+215
+Caught an exception: You’re Temporarily Blocked
+216
+Caught an exception: You’re Temporarily Blocked
+217
+Caught an exception: You’re Temporarily Blocked
+218
+Caught an exception: You’re Temporarily Blocked
+219
+Caught an exception: You’re Temporarily Blocked
+220
+Caught an exception: You’re Temporarily Blocked
+221
+Caught an exception: You’re Temporarily Blocked
+222
+Caught an exception: You’re Temporarily Blocked
+223
+Caught an exception: You’re Temporarily Blocked
+224
+Caught an exception: You’re Temporarily Blocked
+225
+Caught an exception: You’re Temporarily Blocked
+226
+Caught an exception: You’re Temporarily Blocked
+227
+Caught an exception: You’re Temporarily Blocked
+228
+Caught an exception: You’re Temporarily Blocked
+229
+Caught an exception: You’re Temporarily Blocked
+230
+Caught an exception: You’re Temporarily Blocked
+231
+Caught an exception: You’re Temporarily Blocked
+232
+Caught an exception: You’re Temporarily Blocked
+233
+Caught an exception: You’re Temporarily Blocked
+234
+Caught an exception: You’re Temporarily Blocked
+235
+Caught an exception: You’re Temporarily Blocked
+236
+Caught an exception: You’re Temporarily Blocked
+237
+Caught an exception: You’re Temporarily Blocked
+238
+Caught an exception: You’re Temporarily Blocked
+239
+Caught an exception: You’re Temporarily Blocked
